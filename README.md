@@ -6,4 +6,4 @@
 demo 效果 
 ![image](https://github.com/ZuiMeng88/iCarouselView/blob/master/QQ20170330-175210-HD.gif)
 完成项目需求效果
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/ZuiMeng88/iCarouselView/blob/master/QQ20170330-173647-HD.gif)
